@@ -74,7 +74,9 @@ I'm interested in **building startups, solving real-world problems through techn
 
 ### Find Me Elsewhere
 
-- [LinkedIn](https://linkedin.com/in/abdulvaliy) - [Instagram](https://instagram.com/abdulvaliyco) - [Telegram](https://t.me/abdulvaliyco)
+- [LinkedIn](https://linkedin.com/in/abdulvaliy)
+- [Instagram](https://instagram.com/abdulvaliyco)
+- [Telegram](https://t.me/abdulvaliyco)
 
 ---
 
