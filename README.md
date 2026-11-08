@@ -36,17 +36,13 @@ My interests include **AI/ML, software engineering, cybersecurity, and building 
 
 `SQL` · `MongoDB`
 
-**AI**
+**Artificial Intelligence**
 
 `LLM APIs` · `AI/ML`
 
 **Design**
 
 `Figma`
-
-**Areas of Focus**
-
-AI/ML · Software Engineering · Cybersecurity · Product Development · DevOps
 
 ### Areas of Focus
 
@@ -78,9 +74,7 @@ I'm interested in **building startups, solving real-world problems through techn
 
 ### Find Me Elsewhere
 
-- [LinkedIn](https://linkedin.com/in/abdulvaliy)
-- [Instagram](https://instagram.com/abdulvaliyco)
-- [Telegram](https://t.me/abdulvaliyco)
+- [LinkedIn](https://linkedin.com/in/abdulvaliy) - [Instagram](https://instagram.com/abdulvaliyco) - [Telegram](https://t.me/abdulvaliyco)
 
 ---
 
