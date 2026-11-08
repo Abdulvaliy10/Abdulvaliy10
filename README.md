@@ -1,52 +1,49 @@
-# hey, I'm Abdulvaliy — aka **abdulvaliyco**
+# Hey, I'm Abdulvaliy 👋
 
-**founder mindset.** building things that matter.
+**Startup Founder · Developer · Creator**
 
-Founder · Developer · Creator · AI/ML enthusiast
+Building startups, developing products, and exploring how technology can solve real-world problems.
 
-Building products, exploring technology, and turning ideas into reality.
+Interested in AI/ML, software engineering, cybersecurity, and building ambitious products.
 
----
+What I do
 
-### what I do
+Build and ship products from concept to production
 
-- build products from idea to deployment
-- explore AI, machine learning, and cybersecurity
-- lead development and make technical decisions
-- experiment, learn, and share the building process
+Explore AI, machine learning, and cybersecurity
 
-### stack & focus
+Design software architecture and make technical decisions
 
-`TypeScript` · `JavaScript` · `Python` · `React` · `Node.js` · `MongoDB`
+Lead development and collaborate with teams
 
-AI/ML · Software Engineering · Product Development · DevOps
+Experiment with technologies and share what I learn
 
----
+Tech stack & interests
 
-### projects & ventures
+Languages: TypeScript · JavaScript · Python
 
-- **SA-IELTS** — building accessible IELTS practice for learners worldwide
-- **Portail** — working as CTO, building AI-powered products
-- **Open Source** — experimenting, building, and contributing
+Technologies: React · Node.js · MongoDB · Express
 
----
+Focus: AI/ML · Software Engineering · Product Development · DevOps
 
-### currently
+Projects & ventures
 
-- preparing for SAT, AP Statistics & AP Computer Science A
-- exploring machine learning and AI engineering
-- building products and improving as an engineer
+SA-IELTS — Founder. Building accessible IELTS practice tools for learners worldwide.
 
----
+Portail — CTO. Working on AI-powered products and technical development.
 
-### connect
+Open Source — Exploring ideas, experimenting, and contributing to the developer ecosystem.
+
+Beyond the code
+
+Interested in building companies, solving real-world problems through technology, and understanding how products grow from ideas into businesses.
+
+Find me elsewhere
 
 - [LinkedIn](linkedin.com/in/abdulvaliy)
 - [Instagram](https://www.instagram.com/abdulvaliyco)
 - [Telegram](https://www.t.me/abdulvaliyco)
 
----
+Building things worth building.
 
-*"Turning ideas into reality."*
-
-**Build. Learn. Ship. Repeat.**
+Learn · Build · Ship
