@@ -2,48 +2,66 @@
 
 **Startup Founder · Developer · Creator**
 
-Building startups, developing products, and exploring how technology can solve real-world problems.
+I build startups, develop products, and explore how technology can solve real-world problems.
 
-Interested in AI/ML, software engineering, cybersecurity, and building ambitious products.
+My interests include **AI/ML, software engineering, cybersecurity, and building ambitious products.**
 
-What I do
+---
 
-Build and ship products from concept to production
+### What I Do
 
-Explore AI, machine learning, and cybersecurity
+- **Build & Ship:** Take products from initial ideas to production.
+- **Explore Technology:** Work with AI, machine learning, and cybersecurity.
+- **Engineering:** Design software architecture and make technical decisions.
+- **Leadership:** Lead development and collaborate with teams.
+- **Experiment:** Explore new technologies and share what I learn.
 
-Design software architecture and make technical decisions
+---
 
-Lead development and collaborate with teams
+### Tech Stack & Interests
 
-Experiment with technologies and share what I learn
+**Languages**
 
-Tech stack & interests
+`TypeScript` · `JavaScript` · `Python`
 
-Languages: TypeScript · JavaScript · Python
+**Technologies**
 
-Technologies: React · Node.js · MongoDB · Express
+`React` · `Node.js` · `MongoDB` · `Express`
 
-Focus: AI/ML · Software Engineering · Product Development · DevOps
+**Areas of Focus**
 
-Projects & ventures
+AI/ML · Software Engineering · Product Development · DevOps
 
-SA-IELTS — Founder. Building accessible IELTS practice tools for learners worldwide.
+---
 
-Portail — CTO. Working on AI-powered products and technical development.
+### Projects & Ventures
 
-Open Source — Exploring ideas, experimenting, and contributing to the developer ecosystem.
+**[SA-IELTS](https://sa-ielts.uz)**
 
-Beyond the code
+Founder — Building accessible IELTS practice tools for learners worldwide.
 
-Interested in building companies, solving real-world problems through technology, and understanding how products grow from ideas into businesses.
+**Portail**
 
-Find me elsewhere
+CTO — Working on AI-powered products, technical architecture, and development.
 
-- [LinkedIn](linkedin.com/in/abdulvaliy)
-- [Instagram](https://www.instagram.com/abdulvaliyco)
-- [Telegram](https://www.t.me/abdulvaliyco)
+**Open Source**
 
-Building things worth building.
+Exploring ideas, experimenting, and contributing to the developer ecosystem.
 
-Learn · Build · Ship
+---
+
+### Beyond the Code
+
+I'm interested in **building startups, solving real-world problems through technology, and turning ambitious ideas into sustainable products.**
+
+---
+
+### Find Me Elsewhere
+
+- [LinkedIn](https://linkedin.com/in/abdulvaliy) - [Instagram](https://instagram.com/abdulvaliyco) - [Telegram](https://t.me/abdulvaliyco)
+
+---
+
+*Building things worth building.*
+
+**Learn · Build · Ship**
