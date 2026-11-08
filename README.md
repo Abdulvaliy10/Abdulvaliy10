@@ -24,13 +24,33 @@ My interests include **AI/ML, software engineering, cybersecurity, and building 
 
 `TypeScript` · `JavaScript` · `Python`
 
-**Technologies**
+**Frontend**
 
-`React` · `Node.js` · `MongoDB` · `Express`
+`React` · `Next.js` · `Tailwind CSS` · `SCSS` · `Framer Motion`
+
+**Backend & APIs**
+
+`Node.js` · `Express` · `Supabase` · `Firebase`
+
+**Data**
+
+`SQL` · `MongoDB`
+
+**AI**
+
+`LLM APIs` · `AI/ML`
+
+**Design**
+
+`Figma`
 
 **Areas of Focus**
 
-AI/ML · Software Engineering · Product Development · DevOps
+AI/ML · Software Engineering · Cybersecurity · Product Development · DevOps
+
+### Areas of Focus
+
+AI/ML · Software Engineering · Cybersecurity · Product Development · DevOps
 
 ---
 
@@ -40,7 +60,7 @@ AI/ML · Software Engineering · Product Development · DevOps
 
 Founder — Building accessible IELTS practice tools for learners worldwide.
 
-**Portail**
+**[Portail](https://portail.cc/)**
 
 CTO — Working on AI-powered products, technical architecture, and development.
 
@@ -58,7 +78,9 @@ I'm interested in **building startups, solving real-world problems through techn
 
 ### Find Me Elsewhere
 
-- [LinkedIn](https://linkedin.com/in/abdulvaliy) - [Instagram](https://instagram.com/abdulvaliyco) - [Telegram](https://t.me/abdulvaliyco)
+- [LinkedIn](https://linkedin.com/in/abdulvaliy)
+- [Instagram](https://instagram.com/abdulvaliyco)
+- [Telegram](https://t.me/abdulvaliyco)
 
 ---
 
